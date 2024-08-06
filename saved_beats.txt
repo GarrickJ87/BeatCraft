@@ -1,0 +1,30 @@
+Here's how you can write a trap beat pattern in a structured format similar to the one provided:
+
+---
+
+**Trap Beat**
+- **Beats:** 32
+- **BPM:** 140
+- **Pattern:**
+
+  **Hi-Hats:**
+  - `[1, -1, 1, -1, 1, -1, 1, -1, 1, -1, 1, -1, 1, -1, 1, -1, 1, -1, 1, -1, 1, -1, 1, -1, 1, -1, 1, -1, 1, -1, 1, -1]`
+
+  **Snare:**
+  - `[-1, -1, -1, 1, -1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, -1]`
+
+  **Kick:**
+  - `[1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1, 1, -1, -1, -1]`
+
+  **808 Bass:**
+  - `[1, -1, -1, -1, 1, -1, -1, -1, -1, -1, 1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, -1, 1, -1, 1, -1, -1, -1, 1, -1, -1, -1]`
+
+**Description:**
+- **Hi-Hats:** The hi-hat pattern is constant and fast-paced, playing on every other beat, creating a driving rhythm typical in trap music.
+- **Snare:** The snare hits on the third beat of every bar, providing a steady backbeat.
+- **Kick:** The kick drum pattern emphasizes the first beat of each bar, with occasional additional hits to add complexity.
+- **808 Bass:** The 808 bass follows a similar pattern to the kick, adding deep, booming bass notes that are a hallmark of trap music.
+
+---
+
+This structure can be used to create a trap beat, where you can adjust the patterns and BPM according to your preferences for different variations and styles within the trap genre.
